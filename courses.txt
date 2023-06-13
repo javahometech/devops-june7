@@ -1,4 +1,3 @@
 Java
 ReactJs
 AWS Architect
-DevOps
